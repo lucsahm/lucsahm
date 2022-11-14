@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+<p>I currently work supporting a unix based system. </br>
+I know low-level and high-level languages for microcontrollers.</p>
 
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucsahm&show_icons=true&theme=radical)
 
 <!--
 **lucsahm/lucsahm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
