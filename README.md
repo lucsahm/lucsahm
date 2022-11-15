@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+<div>
 <p>I currently work supporting a unix based system. </br>
 I know low-level and high-level languages for microcontrollers.</p>
-<div>
-<img src="https://img.shields.io/github/languages/count/lucsahm/lucsahm?logo=GNU%20Bash" />
+
+<!--<img src="https://img.shields.io/github/languages/count/lucsahm/lucsahm?logo=GNU%20Bash" /> -->
 </div>
 
 ## Tech Stack
